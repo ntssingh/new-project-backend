@@ -7,7 +7,7 @@ const cors = require("cors");
 
 
 app.use(cors({
-  origin: ['https://project.niteshsingh.online',],
+  origin: ['https://newproject.niteshsingh.online',],
   credentials: true
 }));
 
